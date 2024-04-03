@@ -1,0 +1,40 @@
+div {
+    display: inline-block;
+    border-top: solid 4px gray;
+    border-left: solid 4px gray;
+    border-right: solid 4px black;
+    border-bottom: solid 4px black;
+    margin: 10px;
+    width:  auto;
+    
+    padding: 10px 30px;
+}
+
+div#contents_movie {
+    background-color: gold;
+}
+div#contents_ootd {
+    background-color: cyan;
+}
+div#contents_netflix {
+    background-color: rgb(243, 105, 105);
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+dt {
+    font-weight: bold;
+    margin: 25px;
+    font-size: larger;
+}
+
+img{
+    border-radius: 50px;
+    width: 200px;
+}
+
+.title {
+    font-size: 48px;
+}
