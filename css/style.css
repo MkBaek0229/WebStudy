@@ -1,9 +1,9 @@
 div {
     display: inline-block;
-    border-top: solid 4px gray;
-    border-left: solid 4px gray;
-    border-right: solid 4px black;
-    border-bottom: solid 4px black;
+    border-top: solid 2px gray;
+    border-left: solid 2px gray;
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
     margin: 10px;
     width:  auto;
     
@@ -37,4 +37,15 @@ img{
 
 .title {
     font-size: 48px;
+}
+
+.sub_title {
+    font-size: 40px;
+}
+
+.movie_title {
+    font-size: 38px;
+}
+.Stranger_Things {
+    border: 1px solid black;
 }
